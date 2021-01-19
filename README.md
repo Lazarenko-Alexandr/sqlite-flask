@@ -1,3 +1,8 @@
+# Sqlite-flask
+## Автор
+Лазаренко Александр
+## Задание
+[Task](https://github.com/corvinus-cron/NameIcon/blob/main/task.md)
 # Развертывание
 ## Выполнить команды первичного развертывания:
 ```shell script
